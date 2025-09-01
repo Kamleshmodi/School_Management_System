@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "35778919ed985ad41ba5543b124db493",
+=======
+    "content-hash": "fe33f98a750b8c5a51b30c78bd3fab21",
+>>>>>>> a30d6e0239369240bc507bffd503b49d58a91530
     "packages": [
         {
             "name": "brick/math",
@@ -5578,6 +5582,7 @@
     ],
     "packages-dev": [
         {
+<<<<<<< HEAD
             "name": "aws/aws-crt-php",
             "version": "v1.2.7",
             "source": {
@@ -5730,6 +5735,8 @@
             "time": "2025-01-21T19:10:05+00:00"
         },
         {
+=======
+>>>>>>> a30d6e0239369240bc507bffd503b49d58a91530
             "name": "doctrine/instantiator",
             "version": "1.5.0",
             "source": {
@@ -6114,6 +6121,7 @@
             "time": "2025-01-24T15:45:36+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/vapor-cli",
             "version": "v1.65.7",
             "source": {
@@ -6238,6 +6246,8 @@
             "time": "2024-08-17T13:10:48+00:00"
         },
         {
+=======
+>>>>>>> a30d6e0239369240bc507bffd503b49d58a91530
             "name": "mockery/mockery",
             "version": "1.6.12",
             "source": {
@@ -6321,6 +6331,7 @@
             "time": "2024-05-16T03:13:13+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "mtdowling/jmespath.php",
             "version": "2.8.0",
             "source": {
@@ -6387,6 +6398,8 @@
             "time": "2024-09-04T18:46:31+00:00"
         },
         {
+=======
+>>>>>>> a30d6e0239369240bc507bffd503b49d58a91530
             "name": "myclabs/deep-copy",
             "version": "1.12.1",
             "source": {

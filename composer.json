@@ -15,7 +15,10 @@
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.0.1",
+<<<<<<< HEAD
         "laravel/vapor-cli": "^1.65",
+=======
+>>>>>>> a30d6e0239369240bc507bffd503b49d58a91530
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^6.1",
         "phpunit/phpunit": "^9.5.10",
