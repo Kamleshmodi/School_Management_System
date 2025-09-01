@@ -1,13 +1,9 @@
 {
   "version": 2,
-  "public": false,
   "builds": [
     {
       "src": "public/index.php",
-      "use": "laravel-zero/vercel-php",
-      "config": {
-        "outputDirectory": "public"
-      }
+      "use": "@vercel/php"
     }
   ],
   "rewrites": [
