@@ -4,7 +4,7 @@
   "builds": [
     {
       "src": "public/index.php",
-      "use": "@vercel/php",
+      "use": "laravel-zero/vercel-php",
       "config": {
         "outputDirectory": "public"
       }
