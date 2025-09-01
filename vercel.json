@@ -6,10 +6,10 @@
       "use": "@vercel/php"
     }
   ],
-  "rewrites": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/public/index.php"
+      "src": "/(.*)",
+      "dest": "public/index.php"
     }
   ]
 }
