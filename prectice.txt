@@ -1,0 +1,4 @@
+Hii Everione 
+ we are learning File I/O 
+ using python 
+ I Like Programimg in python
