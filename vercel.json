@@ -1,10 +1,19 @@
 {
-"version": 2,
-"public": false,
-"rewrites": [
-{
-"source": "/(.*)",
-"destination": "/api/index.php"
-}
-]
+  "version": 2,
+  "public": false,
+  "builds": [
+    {
+      "src": "public/index.php",
+      "use": "@vercel/php",
+      "config": {
+        "outputDirectory": "public"
+      }
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/public/index.php"
+    }
+  ]
 }
