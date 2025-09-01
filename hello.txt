@@ -1,0 +1,6 @@
+model k sath .env main image k liye link bana k variable main o ath set karna hai jisse sab page main image k alag se code na likhne pade ...
+
+1.serial number main admission number khud se genrate nahi karne usse sql ki help se karne hai aplhanumeric eg.sc001,sc003
+
+2.desgin pellette banani hai login k pahle jo single page scrolling wali lambi 
+
