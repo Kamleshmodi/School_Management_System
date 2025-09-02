@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "builds": [
     {
       "src": "public/index.php",
@@ -13,3 +14,22 @@
     }
   ]
 }
+=======
+      "framework": "null",
+      "functions": {
+        "api/index.php": { "runtime": "vercel-php@0.6.0" }
+      },
+      "routes": [
+        { "src": "/(.*)", "dest": "/api/index.php" }
+      ],
+      "env": {
+        "APP_ENV": "production",
+        "APP_DEBUG": "false",
+        "APP_URL": "http://your-app-url.com",
+        "APP_KEY": "base64:YOUR_APP_KEY_HERE",
+        "LOG_CHANNEL": "stderr",
+        "CASHE_DRIVER": "array",
+        "SESSION_DRIVER": "Cookie"
+      }
+}
+>>>>>>> d71f675 (Add Vercel Deployment Configs)
